@@ -1,2 +1,7 @@
-# Certificates
-About These certificates were earned through  Forage virtual internship programs.
+# My Certifications 
+
+## Data Analytics Certifications
+
+## About
+These certificates were earned through 
+Forage virtual internship programs.
